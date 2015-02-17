@@ -1,0 +1,143 @@
+body {
+    background: url('../images/background.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    font-family: "Open Sans", sans-serif;
+}
+header {
+    width: 1000px;
+    margin: auto;
+    margin-top:  83px;
+}
+#breadcrumbs {
+    font-weight: bold;
+    font-size: 10pt;
+    float: right;
+    margin-top: 85px;
+}
+.container {
+    background: #ffffff;
+    color: #000000;
+    width: 1000px;
+    min-height: 100%;
+    margin: auto;
+}
+footer {
+    padding: 10px 0
+}
+main {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+a {
+    color: #ed1c24;
+}
+nav {
+    position: relative;
+    z-index: 1000;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+nav ul li {
+    display: inline-block;
+    width: 212px;
+    height: 66px;
+    margin: 10px;
+    text-align: left;
+}
+nav a {
+    background-color: #000000;
+    color: #ffffff;
+    display: block;
+    padding: 20px 10px 0;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: semi-bold;
+    font-size: 20pt;
+    line-height: 46px;
+
+}
+nav a.active {
+    background-color: #ed1c24;
+    color: #ffffff;
+}
+nav a:hover, a:focus {
+    background-color: #d5d6d7;
+    color: #000000;
+}
+
+#quotes {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1000px;
+    height: 500px;
+    z-index: 10;
+}
+
+#companies {
+    margin-top: 414px;
+    border-top: 20px solid black;
+    border-bottom: 20px solid black;
+    height: 70px;
+}
+#slides {
+    width: 900px;
+    margin: auto;
+}
+
+#slides img{
+    height: 50px;
+    padding: 10px;
+}
+
+#sitemap {
+    float: left;
+    width: 775px;
+    margin-left: 112px;
+    border-top: 10px solid #ed1c24;
+    border-bottom: 10px solid #ed1c24;
+    padding: 30px 0;
+    background-color: #555555;
+    text-transform: uppercase;
+}
+
+#sitemap ul {
+    float: left;
+    text-align: center;
+    width: 33%;
+    margin: 0;
+    padding: 0;
+}
+#sitemap li {
+    list-style: none;
+}
+
+#sitemap a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#bbb {
+    float: left;
+    padding: 10px;
+    margin-top: 70px;
+}
+.links {
+    clear: both;
+    width: 1000px;
+    padding: 10px;
+    margin: auto;
+    font-size: 10pt;
+}
+
+.clear {
+    clear: both;
+}
