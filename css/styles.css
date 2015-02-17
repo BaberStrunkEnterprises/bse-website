@@ -16,8 +16,15 @@ header {
     font-weight: bold;
     font-size: 10pt;
     float: right;
-    margin-top: 85px;
+    margin-top: 80px;
+    text-transform: uppercase;
 }
+
+#breadcrumbs a {
+    color: #000000;
+    text-decoration: none;
+}
+
 .container {
     background: #ffffff;
     color: #000000;
@@ -140,4 +147,40 @@ nav a:hover, a:focus {
 
 .clear {
     clear: both;
+}
+
+#company-name {
+    margin: 10px auto;
+    width: 900px;
+    padding: 10px;
+    background-color: #d5d6d7;
+    -webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+}
+
+#company-name img {
+    height: 100px;
+    padding: 10px;
+}
+
+.content {
+    width: 900px;
+    margin: auto;
+    padding: 10px;
+}
+
+.contact-info {
+    width: 900px;
+    margin: auto;
+    padding: 10px;
+    text-align: right;
+}
+
+.contact-info h2 {
+    color: #ed1c24;
+    text-transform: uppercase;
+    font-size: 16pt;
+    margin: 0;
+    padding: 0;
 }
