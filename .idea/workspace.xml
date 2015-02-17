@@ -24,93 +24,74 @@
     <favorites_list name="BSEWebsite" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6367713">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="gulf-coast.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/gulf-coast.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-14.0" vertical-offset="61" max-vertical-offset="2175">
-                  <caret line="17" column="87" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="c-and-s.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/c-and-s.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-11.115385" vertical-offset="136" max-vertical-offset="2175">
-                  <caret line="17" column="87" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="check-now.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/check-now.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-8.230769" vertical-offset="211" max-vertical-offset="2175">
-                  <caret line="17" column="81" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="city-centre.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/city-centre.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-2.9615386" vertical-offset="1498" max-vertical-offset="2175">
-                  <caret line="63" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="81" selection-end-column="7" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="companies.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/companies.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="150">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="gulf-breeze.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/gulf-breeze.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.48233488" vertical-offset="211" max-vertical-offset="2175">
-                  <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/css/styles.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.36927623" vertical-offset="750" max-vertical-offset="4775">
-                  <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1875" max-vertical-offset="4900">
+              <caret line="94" column="18" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.346153" vertical-offset="225" max-vertical-offset="2050">
+              <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="companies.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/companies.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.076923" vertical-offset="311" max-vertical-offset="2050">
+              <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7153614" vertical-offset="750" max-vertical-offset="2425">
+              <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="privacy.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/privacy.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.269231" vertical-offset="236" max-vertical-offset="2050">
+              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sitemap.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sitemap.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-24.038462" vertical-offset="0" max-vertical-offset="2050">
+              <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/scripts.js" />
         <option value="$PROJECT_DIR$/css/slick-theme.css" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/city-centre.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/ground-and-up.html" />
@@ -124,6 +105,12 @@
         <option value="$PROJECT_DIR$/c-and-s.html" />
         <option value="$PROJECT_DIR$/check-now.html" />
         <option value="$PROJECT_DIR$/gulf-breeze.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/privacy.html" />
+        <option value="$PROJECT_DIR$/sitemap.html" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/companies.html" />
+        <option value="$PROJECT_DIR$/contact.html" />
       </list>
     </option>
   </component>
@@ -319,38 +306,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.36927623" vertical-offset="750" max-vertical-offset="4775">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5" vertical-offset="1257" max-vertical-offset="2375">
-          <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="70" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ground-and-up.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30721965" vertical-offset="225" max-vertical-offset="2175">
@@ -363,30 +318,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6528418" vertical-offset="0" max-vertical-offset="2175">
           <caret line="17" column="94" selection-start-line="17" selection-start-column="94" selection-end-line="17" selection-end-column="94" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/privacy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sitemap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/babers.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6528418" vertical-offset="0" max-vertical-offset="2175">
-          <caret line="17" column="79" selection-start-line="17" selection-start-column="79" selection-end-line="17" selection-end-column="79" />
           <folding />
         </state>
       </provider>
@@ -423,50 +354,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulf-coast.html">
+    <entry file="file://$PROJECT_DIR$/gulf-breeze.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.0" vertical-offset="61" max-vertical-offset="2175">
-          <caret line="17" column="87" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/c-and-s.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.115385" vertical-offset="136" max-vertical-offset="2175">
-          <caret line="17" column="87" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/check-now.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.230769" vertical-offset="211" max-vertical-offset="2175">
-          <caret line="17" column="81" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
+        <state vertical-scroll-proportion="0.48233488" vertical-offset="211" max-vertical-offset="2175">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/city-centre.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.9615386" vertical-offset="1498" max-vertical-offset="2175">
+        <state vertical-scroll-proportion="0.11827957" vertical-offset="1498" max-vertical-offset="2175">
           <caret line="63" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="81" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check-now.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32872504" vertical-offset="211" max-vertical-offset="2175">
+          <caret line="17" column="81" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/c-and-s.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4439324" vertical-offset="136" max-vertical-offset="2175">
+          <caret line="17" column="87" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulf-coast.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5591398" vertical-offset="61" max-vertical-offset="2175">
+          <caret line="17" column="87" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29066265" vertical-offset="1257" max-vertical-offset="2375">
+          <caret line="58" column="63" selection-start-line="0" selection-start-column="0" selection-end-line="89" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1875" max-vertical-offset="4900">
+          <caret line="94" column="18" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/babers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52710843" vertical-offset="75" max-vertical-offset="2175">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.038462" vertical-offset="0" max-vertical-offset="2050">
+          <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/privacy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.269231" vertical-offset="236" max-vertical-offset="2050">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.346153" vertical-offset="225" max-vertical-offset="2050">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/companies.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-12.076923" vertical-offset="311" max-vertical-offset="2050">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulf-breeze.html">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48233488" vertical-offset="211" max-vertical-offset="2175">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.7153614" vertical-offset="750" max-vertical-offset="2425">
+          <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
           <folding />
         </state>
       </provider>

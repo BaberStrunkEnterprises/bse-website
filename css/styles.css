@@ -89,6 +89,11 @@ nav a:hover, a:focus {
     z-index: 10;
 }
 
+.info {
+    margin-top: 414px;
+    border-top: 20px solid black;
+    padding: 10px;
+}
 #companies {
     margin-top: 414px;
     border-top: 20px solid black;
